@@ -1,0 +1,7 @@
+Data pre-processing: https://github.com/arjungandhi521/deepfake-generation/blob/master/Code/Face_Detection.ipynb
+
+Final model: https://github.com/arjungandhi521/deepfake-generation/blob/master/Code/Auto_Encoders.ipynb
+
+Inference script: https://colab.research.google.com/drive/19fX47K1fU1vJnC-e4rIZHJ4TUliYDoUF?usp=sharing
+
+Generated faces to deep fake: https://github.com/arjungandhi521/deepfake-generation/blob/master/Code/Frame%20Swap.ipynb
